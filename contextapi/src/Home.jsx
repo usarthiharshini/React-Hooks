@@ -7,6 +7,7 @@ function Home() {
     const name = useContext(appContext)
     return ( <h3 className='name'>
        {name}
+       helllo
     </h3> );
 }
 
